@@ -1,0 +1,23 @@
+{
+  "name": "phasergamefmz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fmunozzafra/PhaserGameFMZ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fmunozzafra/PhaserGameFMZ/issues"
+  },
+  "homepage": "https://github.com/Fmunozzafra/PhaserGameFMZ#readme",
+  "dependencies": {
+    "http-server": "^14.1.0",
+    "phaser": "^3.55.2"
+  }
+}
